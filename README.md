@@ -1,2 +1,3 @@
 # Fractals
-Program that generates fractals
+Program that generates Sierpiński carpet
+Bar changes maximal amount of squares
