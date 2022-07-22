@@ -19,7 +19,7 @@ int main() {
     std::vector<sf::Vector3f> sqrsTmp;
 
     sf::RectangleShape rs;
-    ScrollBar maxSquares(sf::Vector2f(1100, 400), sf::Vector2f(200, 30), window);
+    ScrollBar maxSquares(sf::Vector2f(1100, 400), sf::Vector2f(300, 20), window);
     float maxSquaresOld = maxSquares.getProcent();
 
     while(window.isOpen()) {
